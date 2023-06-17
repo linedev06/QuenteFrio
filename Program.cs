@@ -49,42 +49,6 @@ Console.WriteLine($"Parabéns, você acertou o número aleatório! O número era
 Console.ResetColor();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 void txt(string txt)
 {
 Console.WriteLine(txt);
